@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "backpipe"]
+	path = backpipe
+	url = https://github.com/decisionpatterns/backpipe
+	shallow = true
+	registered = true
+[submodule "catcont"]
+	path = catcont
+	url = https://github.com/decisionpatterns/catcont
+	shallow = true
+	registered = true
+[submodule "formula.tools"]
+	path = formula.tools
+	url = https://github.com/decisionpatterns/formula.tools
+	shallow = true
+	registered = true
+[submodule "na.tools"]
+	path = na.tools
+	url = https://github.com/decisionpatterns/na.tools
+	shallow = true
+	registered = true
+[submodule "operator.tools"]
+	path = operator.tools
+	url = https://github.com/decisionpatterns/operator.tools
+	shallow = true
+	registered = true
+[submodule "optigrab"]
+	path = optigrab
+	url = https://github.com/decisionpatterns/optigrab
+	shallow = true
+	registered = true
+[submodule "ordering"]
+	path = ordering
+	url = https://github.com/decisionpatterns/ordering
+	shallow = true
+	registered = true
+[submodule "sticky"]
+	path = sticky
+	url = https://github.com/decisionpatterns/sticky
+	shallow = true
+	registered = true
