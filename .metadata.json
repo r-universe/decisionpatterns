@@ -1,6 +1,14 @@
 [
   {
+    "package": "backpipe",
+    "oncran": true
+  },
+  {
     "package": "catcont",
+    "oncran": true
+  },
+  {
+    "package": "formula.tools",
     "oncran": true
   },
   {
@@ -12,19 +20,11 @@
     "oncran": true
   },
   {
-    "package": "backpipe",
-    "oncran": true
-  },
-  {
-    "package": "formula.tools",
+    "package": "optigrab",
     "oncran": true
   },
   {
     "package": "ordering",
-    "oncran": true
-  },
-  {
-    "package": "optigrab",
     "oncran": true
   },
   {
