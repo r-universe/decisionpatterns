@@ -17,9 +17,6 @@
 [submodule "operator.tools"]
 	path = operator.tools
 	url = https://github.com/decisionpatterns/operator.tools
-[submodule "optigrab"]
-	path = optigrab
-	url = https://github.com/decisionpatterns/optigrab
 [submodule "ordering"]
 	path = ordering
 	url = https://github.com/decisionpatterns/ordering
