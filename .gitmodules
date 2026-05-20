@@ -11,9 +11,6 @@
 [submodule "formula.tools"]
 	path = formula.tools
 	url = https://github.com/decisionpatterns/formula.tools
-[submodule "na.tools"]
-	path = na.tools
-	url = https://github.com/decisionpatterns/na.tools
 [submodule "operator.tools"]
 	path = operator.tools
 	url = https://github.com/decisionpatterns/operator.tools
